@@ -9,6 +9,7 @@ CLASS SYMBOL
 ============
 */
 void testENV();
+void init(int argc, char **argv);
 
 class Symbol
 {
