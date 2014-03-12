@@ -18,7 +18,7 @@ public:
 
 	vector<double>			position;
 	vector<double>			scale;
-	vector<double>			rotation;
+	vector<double>			rotation; //4dim vector: (angle,x,y,z)
 	vector<double>			color; //contains RGB values from 0 to 1
 	
 	string					name;
